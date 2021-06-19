@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-12T19:37:16 IST" name="Default suite" finished-at="2021-06-12T19:37:32 IST" duration-ms="15581">
+    <groups>
+    </groups>
+    <test started-at="2021-06-12T19:37:16 IST" name="Default test" finished-at="2021-06-12T19:37:32 IST" duration-ms="15581">
+      <class name="Framework.ExtentReportsnew.EXTRENTR">
+        <test-method is-config="true" signature="before()[pri:0, instance:Framework.ExtentReportsnew.EXTRENTR@63021689]" started-at="2021-06-12T19:37:16 IST" name="before" finished-at="2021-06-12T19:37:17 IST" duration-ms="852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="Demo()[pri:0, instance:Framework.ExtentReportsnew.EXTRENTR@63021689]" started-at="2021-06-12T19:37:17 IST" name="Demo" finished-at="2021-06-12T19:37:32 IST" duration-ms="14634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- Framework.ExtentReportsnew.EXTRENTR -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
